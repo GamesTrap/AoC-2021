@@ -9,7 +9,35 @@
 ## Information
 
 This repository contains my solutions for the [Advent of Code 2021](https://adventofcode.com/2021) coding challenges.  
-All solutions are written in C++17.
+All solutions are written in C++17.  
+
+| Finished | Day | Part 1                                  | Part 2                                  |
+| -------- | --- | --------------------------------------- | --------------------------------------- |
+| ✔        | 1   | [Link](AdventOfCode2021/Day1/Part1.cpp) | [Link](AdventOfCode2021/Day1/Part2.cpp) |
+|          | 2   | Link   | Link   |
+|          | 3   | Link   | Link   |
+|          | 4   | Link   | Link   |
+|          | 5   | Link   | Link   |
+|          | 6   | Link   | Link   |
+|          | 7   | Link   | Link   |
+|          | 8   | Link   | Link   |
+|          | 9   | Link   | Link   |
+|          | 10  | Link   | Link   |
+|          | 11  | Link   | Link   |
+|          | 12  | Link   | Link   |
+|          | 13  | Link   | Link   |
+|          | 14  | Link   | Link   |
+|          | 15  | Link   | Link   |
+|          | 16  | Link   | Link   |
+|          | 17  | Link   | Link   |
+|          | 18  | Link   | Link   |
+|          | 19  | Link   | Link   |
+|          | 20  | Link   | Link   |
+|          | 21  | Link   | Link   |
+|          | 22  | Link   | Link   |
+|          | 23  | Link   | Link   |
+|          | 24  | Link   | Link   |
+|          | 25  | Link   | Link   |
 
 ## License
 
