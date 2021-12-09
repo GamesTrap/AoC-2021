@@ -1,18 +1,3 @@
-# Advent of Code 2021
-
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GamesTrap/AdventOfCode2021)](https://github.com/GamesTrap/AdventOfCode2021)
-[![GitHub repo size](https://img.shields.io/github/repo-size/GamesTrap/AdventOfCode2021)](https://github.com/GamesTrap/AdventOfCode2021)
-[![GitHub issues](https://img.shields.io/github/issues/GamesTrap/AdventOfCode2021)](https://github.com/GamesTrap/ModernDialogsAdventOfCode2021/issues?q=is%3Aopen+is%3Aissue)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/GamesTrap/AdventOfCode2021)](https://github.com/GamesTrap/AdventOfCode2021/pulls?q=is%3Aopen+is%3Apr)
-[![GitHub](https://img.shields.io/github/license/GamesTrap/AdventOfCode2021)](https://github.com/GamesTrap/AdventOfCode2021/blob/master/LICENSE)
-
-## Information
-
-This repository contains my solutions for the [Advent of Code 2021](https://adventofcode.com/2021) coding challenges.  
-All solutions are written in C++17.
-
-## License
-
 MIT License
 
 Copyright (c) 2021 Jan "GamesTrap" Schürkamp
