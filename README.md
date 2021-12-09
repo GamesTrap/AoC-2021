@@ -17,7 +17,7 @@ All solutions are written in C++17.
 | ✔        | 2   | [Link](AdventOfCode2021/Day2/Part1.cpp) | [Link](AdventOfCode2021/Day2/Part2.cpp) |
 | ✔        | 3   | [Link](AdventOfCode2021/Day3/Part1.cpp) | [Link](AdventOfCode2021/Day3/Part2.cpp) |
 | ✔        | 4   | [Link](AdventOfCode2021/Day4/Part1.cpp) | [Link](AdventOfCode2021/Day4/Part2.cpp) |
-|          | 5   | Link   | Link   |
+| ✔        | 5   | [Link](AdventOfCode2021/Day5/Part1.cpp) | [Link](AdventOfCode2021/Day5/Part2.cpp) |
 |          | 6   | Link   | Link   |
 |          | 7   | Link   | Link   |
 |          | 8   | Link   | Link   |
