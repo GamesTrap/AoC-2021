@@ -1,10 +1,10 @@
 # Advent of Code 2021
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GamesTrap/AdventOfCode2021)](https://github.com/GamesTrap/AdventOfCode2021)
-[![GitHub repo size](https://img.shields.io/github/repo-size/GamesTrap/AdventOfCode2021)](https://github.com/GamesTrap/AdventOfCode2021)
-[![GitHub issues](https://img.shields.io/github/issues/GamesTrap/AdventOfCode2021)](https://github.com/GamesTrap/ModernDialogsAdventOfCode2021/issues?q=is%3Aopen+is%3Aissue)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/GamesTrap/AdventOfCode2021)](https://github.com/GamesTrap/AdventOfCode2021/pulls?q=is%3Aopen+is%3Apr)
-[![GitHub](https://img.shields.io/github/license/GamesTrap/AdventOfCode2021)](https://github.com/GamesTrap/AdventOfCode2021/blob/master/LICENSE)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GamesTrap/AoC-2021)](https://github.com/GamesTrap/AoC-2021)
+[![GitHub repo size](https://img.shields.io/github/repo-size/GamesTrap/AoC-2021)](https://github.com/GamesTrap/AoC-2021)
+[![GitHub issues](https://img.shields.io/github/issues/GamesTrap/AoC-2021)](https://github.com/GamesTrap/AoC-2021/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/GamesTrap/AoC-2021)](https://github.com/GamesTrap/AoC-2021/pulls?q=is%3Aopen+is%3Apr)
+[![GitHub](https://img.shields.io/github/license/GamesTrap/AoC-2021)](https://github.com/GamesTrap/AoC-2021/blob/master/LICENSE)
 
 ## Information
 
