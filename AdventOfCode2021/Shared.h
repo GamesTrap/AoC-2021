@@ -23,3 +23,30 @@ std::vector<std::string> ReadTextFile(const std::filesystem::path& filePath)
 
     return lines;
 }
+
+//-------------------------------------------------------------------------------------------------------------------//
+
+std::vector<std::string> SplitString(const std::string_view string,
+                                     const std::string_view delimiters)
+{
+	std::size_t start = 0;
+	std::size_t end = string.find_first_of(delimiters);
+
+	std::vector<std::string> result;
+
+	while (end <= std::string::npos)
+	{
+		std::string token = std::string(string.substr(start, end - start));
+
+		if (!token.empty())
+			result.push_back(token);
+
+		if (end == std::string::npos)
+			break;
+
+		start = end + 1;
+		end = string.find_first_of(delimiters, start);
+	}
+
+	return result;
+}
