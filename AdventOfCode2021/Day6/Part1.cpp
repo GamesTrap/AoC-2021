@@ -20,14 +20,14 @@ uint64_t CountFish(const std::array<uint64_t, MAX_LIFETIME>& table)
 
 int32_t main()
 {
-    std::vector<std::string> lines = ReadTextFile("input.txt");
+    const std::vector<std::string> lines = ReadTextFile("input.txt");
     if(lines.empty())
         return -1;
 
     //Parse input
     std::array<uint64_t, MAX_LIFETIME> table{};
     std::array<uint64_t, MAX_LIFETIME> backTable{};
-    auto split = SplitString(lines[0], ",");
+    const auto split = SplitString(lines[0], ",");
     for(const auto& s : split)
         table[std::stoi(s)]++;
 

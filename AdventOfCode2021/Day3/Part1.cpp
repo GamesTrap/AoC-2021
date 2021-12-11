@@ -6,7 +6,7 @@
 
 int32_t main()
 {
-    std::vector<std::string> lines = ReadTextFile("input.txt");
+    const std::vector<std::string> lines = ReadTextFile("input.txt");
     if(lines.empty())
         return -1;
 
@@ -26,9 +26,9 @@ int32_t main()
         strEpsilonRate += (ones < zeros ? '1' : '0');
     }
 
-    std::bitset<32> gammaRate(strGammaRate);
+    const std::bitset<32> gammaRate(strGammaRate);
     //Epsilon rate is the binary inverse of the gamma rate
-    std::bitset<32> epsilonRate(strEpsilonRate);
+    const std::bitset<32> epsilonRate(strEpsilonRate);
 
     std::cout << "Gamma rate: " << gammaRate.to_ulong() << " Epsilon rate: " << epsilonRate.to_ulong() <<
                  " Power consumption: " << (gammaRate.to_ulong() * epsilonRate.to_ulong()) << std::endl;

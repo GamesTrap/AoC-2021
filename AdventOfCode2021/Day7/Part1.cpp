@@ -7,7 +7,7 @@
 
 int32_t main()
 {
-    std::vector<std::string> lines = ReadTextFile("input.txt");
+    const std::vector<std::string> lines = ReadTextFile("input.txt");
 
     //Parse input
     std::vector<int32_t> nums{};

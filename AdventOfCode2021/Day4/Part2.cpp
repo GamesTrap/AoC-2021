@@ -59,7 +59,7 @@ bool IsBoardWon(const Board& board)
 
 int32_t main()
 {
-    std::vector<std::string> lines = ReadTextFile("input.txt");
+    const std::vector<std::string> lines = ReadTextFile("input.txt");
     if(lines.empty())
         return -1;
 

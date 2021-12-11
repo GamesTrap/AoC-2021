@@ -5,7 +5,7 @@
 
 int32_t main()
 {
-    std::vector<std::string> lines = ReadTextFile("input.txt");
+    const std::vector<std::string> lines = ReadTextFile("input.txt");
     if(lines.empty())
         return -1;
 
@@ -18,7 +18,7 @@ int32_t main()
         if(line.empty())
             continue;
 
-        int32_t measurement = std::stoi(line);
+        const int32_t measurement = std::stoi(line);
 
         if(measurement > lastMeasurement && lastMeasurement >= 0)
            ++increaseCount;

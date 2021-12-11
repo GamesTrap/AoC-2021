@@ -6,7 +6,7 @@
 
 int32_t main()
 {
-    std::vector<std::string> lines = ReadTextFile("input.txt");
+    const std::vector<std::string> lines = ReadTextFile("input.txt");
     if(lines.empty())
         return -1;
 
@@ -14,7 +14,7 @@ int32_t main()
     std::vector<std::string> OxygenRatings = lines;
     for(std::size_t i = 0; i < lines[0].size(); ++i) //For each bit
     {
-        std::vector<std::string> temp = OxygenRatings;
+        const std::vector<std::string> temp = OxygenRatings;
         OxygenRatings.clear();
         uint32_t ones = 0, zeros = 0;
         for(std::size_t j = 0; j < temp.size(); ++j)
@@ -41,7 +41,7 @@ int32_t main()
     std::vector<std::string> CO2Ratings = lines;
     for(std::size_t i = 0; i < lines[0].size(); ++i) //For each bit
     {
-        std::vector<std::string> temp = CO2Ratings;
+        const std::vector<std::string> temp = CO2Ratings;
         CO2Ratings.clear();
         uint32_t ones = 0, zeros = 0;
         for(std::size_t j = 0; j < temp.size(); ++j)
@@ -64,8 +64,8 @@ int32_t main()
             break;
     }
 
-    std::bitset<32> oxygenRating(OxygenRatings[0]);
-    std::bitset<32> co2Rating(CO2Ratings[0]);
+    const std::bitset<32> oxygenRating(OxygenRatings[0]);
+    const std::bitset<32> co2Rating(CO2Ratings[0]);
 
     std::cout << "Oxygen generator rating: " << oxygenRating.to_ulong() <<
                  " CO2 scrubber rating: " << co2Rating.to_ulong() <<

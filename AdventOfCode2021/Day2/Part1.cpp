@@ -5,7 +5,7 @@
 
 int32_t main()
 {
-    std::vector<std::string> lines = ReadTextFile("input.txt");
+    const std::vector<std::string> lines = ReadTextFile("input.txt");
     if(lines.empty())
         return -1;
 
@@ -16,7 +16,7 @@ int32_t main()
         if(line.empty())
             continue;
 
-        std::vector<std::string> split = SplitString(line, " ");
+        const std::vector<std::string> split = SplitString(line, " ");
         if(split.size() != 2)
             continue;
 
