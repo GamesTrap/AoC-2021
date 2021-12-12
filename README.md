@@ -11,18 +11,18 @@
 This repository contains my solutions for the [Advent of Code 2021](https://adventofcode.com/2021) coding challenges.  
 All solutions are written in C++17.  
 
-| Finished | Day | Part 1                                  | Part 2                                  |
-| -------- | --- | --------------------------------------- | --------------------------------------- |
-| ✔        | 1   | [Link](AdventOfCode2021/Day1/Part1.cpp) | [Link](AdventOfCode2021/Day1/Part2.cpp) |
-| ✔        | 2   | [Link](AdventOfCode2021/Day2/Part1.cpp) | [Link](AdventOfCode2021/Day2/Part2.cpp) |
-| ✔        | 3   | [Link](AdventOfCode2021/Day3/Part1.cpp) | [Link](AdventOfCode2021/Day3/Part2.cpp) |
-| ✔        | 4   | [Link](AdventOfCode2021/Day4/Part1.cpp) | [Link](AdventOfCode2021/Day4/Part2.cpp) |
-| ✔        | 5   | [Link](AdventOfCode2021/Day5/Part1.cpp) | [Link](AdventOfCode2021/Day5/Part2.cpp) |
-| ✔        | 6   | [Link](AdventOfCode2021/Day6/Part1.cpp) | [Link](AdventOfCode2021/Day6/Part2.cpp) |
-| ✔        | 7   | [Link](AdventOfCode2021/Day7/Part1.cpp) | [Link](AdventOfCode2021/Day7/Part2.cpp) |
-| ✔        | 8   | [Link](AdventOfCode2021/Day8/Part1.cpp) | [Link](AdventOfCode2021/Day8/Part2.cpp) |
-| ✔        | 9   | [Link](AdventOfCode2021/Day9/Part1.cpp) | [Link](AdventOfCode2021/Day9/Part2.cpp) |
-|          | 10  | Link   | Link   |
+| Finished | Day | Part 1                                   | Part 2                                   |
+| -------- | --- | ---------------------------------------- | ---------------------------------------- |
+| ✔        | 1   | [Link](AdventOfCode2021/Day1/Part1.cpp)  | [Link](AdventOfCode2021/Day1/Part2.cpp)  |
+| ✔        | 2   | [Link](AdventOfCode2021/Day2/Part1.cpp)  | [Link](AdventOfCode2021/Day2/Part2.cpp)  |
+| ✔        | 3   | [Link](AdventOfCode2021/Day3/Part1.cpp)  | [Link](AdventOfCode2021/Day3/Part2.cpp)  |
+| ✔        | 4   | [Link](AdventOfCode2021/Day4/Part1.cpp)  | [Link](AdventOfCode2021/Day4/Part2.cpp)  |
+| ✔        | 5   | [Link](AdventOfCode2021/Day5/Part1.cpp)  | [Link](AdventOfCode2021/Day5/Part2.cpp)  |
+| ✔        | 6   | [Link](AdventOfCode2021/Day6/Part1.cpp)  | [Link](AdventOfCode2021/Day6/Part2.cpp)  |
+| ✔        | 7   | [Link](AdventOfCode2021/Day7/Part1.cpp)  | [Link](AdventOfCode2021/Day7/Part2.cpp)  |
+| ✔        | 8   | [Link](AdventOfCode2021/Day8/Part1.cpp)  | [Link](AdventOfCode2021/Day8/Part2.cpp)  |
+| ✔        | 9   | [Link](AdventOfCode2021/Day9/Part1.cpp)  | [Link](AdventOfCode2021/Day9/Part2.cpp)  |
+| ✔        | 10  | [Link](AdventOfCode2021/Day10/Part1.cpp) | [Link](AdventOfCode2021/Day10/Part2.cpp) |
 |          | 11  | Link   | Link   |
 |          | 12  | Link   | Link   |
 |          | 13  | Link   | Link   |
