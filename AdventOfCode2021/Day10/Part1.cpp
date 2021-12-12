@@ -26,7 +26,7 @@ std::unordered_map<char, char> CloseBracketsMap = {
 
 int32_t main()
 {
-    const std::vector<std::string> lines = ReadTextFile("sample.txt");
+    const std::vector<std::string> lines = ReadTextFile("input.txt");
     if(lines.empty())
         return -1;
 

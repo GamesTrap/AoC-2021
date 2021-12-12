@@ -1,6 +1,6 @@
 //Advent of Code 2021
 //Day 10: Syntax Scoring
-//Part 1
+//Part 2
 #include "../Shared.h"
 
 #include <unordered_map>
